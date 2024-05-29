@@ -1,0 +1,63 @@
+body { 
+    background-color: rgb(233, 154, 245); 
+}
+
+.nama {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(213, 8, 111);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    color: brown;
+    margin: 20px;
+}
+
+.box0{
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.box1{
+    width: 550px;
+    height: 200px;
+    background: red;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.box2{
+    width: 500px;
+    height: 200px;
+    background: red;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.box3{
+    width: 100px;
+    height: 200px;
+    background: red;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+ 
+.boxs {
+    display: flex;
+}
+
